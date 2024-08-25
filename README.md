@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Mahal</h1>
 <h3 align="center">A Passionate Front End Developer from India</h3>
-<img align="right"alt="coding"width="400"src="https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif">
+<img align="right"alt="coding"width="400"src="https://img.freepik.com/free-photo/view-3d-man-using-laptop_23-2150709796.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1724457600&semt=ais_hybrid">
 
 - 🌱 I’m currently learning **Computer science**
 
